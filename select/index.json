@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "フラジール",
+  "base_artist": "ぬゆり",
+  "createdAt": "2026-02-25T11:58:36.564067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フラジール",
+      "artist": "ぬゆり",
+      "has_synced": true,
+      "path": "select/01_フラジール_ぬゆり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "笑って フラジール",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/02_笑って_フラジール_≒JOY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fragile (フラジール)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/03_Fragile_(フラジール)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "フラジール",
+      "artist": "ぬゆり feat.GUMI",
+      "has_synced": true,
+      "path": "select/04_フラジール_ぬゆり_feat.GUMI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "フラジール",
+      "artist": "Lanndo (ぬゆり Official)",
+      "has_synced": true,
+      "path": "select/05_フラジール_Lanndo_(ぬゆり_Official).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "フラジール - Fragile (feat. 東雲彰人&青柳冬弥)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/06_フラジール_-_Fragile_(feat._東雲彰人&青柳冬弥)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "笑って フラジール",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/07_笑って_フラジール_≒JOY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "笑って フラジール (instrumental)",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/08_笑って_フラジール_(instrumental)_≒JOY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フラジール",
+      "artist": "ぬゆり feat. GUMI",
+      "has_synced": true,
+      "path": "select/09_フラジール_ぬゆり_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "フラジール",
+      "artist": "Nuyuri",
+      "has_synced": true,
+      "path": "select/10_フラジール_Nuyuri.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "フラジール",
+      "artist": "いかさん",
+      "has_synced": true,
+      "path": "select/11_フラジール_いかさん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フラジール",
+      "artist": "ぬゆり",
+      "has_synced": false,
+      "path": "select/pl_01_フラジール_ぬゆり.txt"
+    }
+  ]
+}
